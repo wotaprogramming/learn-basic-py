@@ -1,3 +1,4 @@
 # Mengenal variable pada python
 # nama variable = nilai variable
-a = 20
+a = 21
+b = 30
