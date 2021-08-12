@@ -13,3 +13,6 @@ print("Hello, World") # ini termasuk komen disamping sintax
 
 # Mencetak Integer
 print(128)
+
+# Mencetak String
+print("ini sebuah string")
